@@ -1,0 +1,32 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.jason.beans.Config",
+      "name": "database",
+      "type": "org.jason.beans.Config"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.jason.beans.Config",
+      "name": "database.driver",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.jason.beans.Config",
+      "name": "database.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.jason.beans.Config",
+      "name": "database.passwd",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.jason.beans.Config",
+      "name": "database.url",
+      "type": "java.lang.String"
+    }
+  ]
+}
