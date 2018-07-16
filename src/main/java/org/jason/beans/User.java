@@ -15,4 +15,12 @@ public class User {
     private String userName;
     private Date createDate;
 
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", age=" + age +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }
